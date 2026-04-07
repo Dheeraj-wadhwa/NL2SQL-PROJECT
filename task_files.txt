@@ -1,0 +1,7 @@
+.\task_files.txt
+.\.venv\Lib\site-packages\anyio\abc\_tasks.py
+.\.venv\Lib\site-packages\anyio\abc\__pycache__\_tasks.cpython-310.pyc
+.\.venv\Lib\site-packages\anyio\_core\_tasks.py
+.\.venv\Lib\site-packages\anyio\_core\__pycache__\_tasks.cpython-310.pyc
+.\.venv\Lib\site-packages\vanna\components\rich\interactive\task_list.py
+.\.venv\Lib\site-packages\vanna\components\rich\interactive\__pycache__\task_list.cpython-310.pyc

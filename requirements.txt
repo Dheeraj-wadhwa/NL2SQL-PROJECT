@@ -1,0 +1,9 @@
+vanna==2.* # Target Vanna 2.x
+fastapi
+uvicorn
+pandas
+plotly
+python-dotenv
+faker
+# Optional LLM integrations based on selection
+google-genai # For gemini
